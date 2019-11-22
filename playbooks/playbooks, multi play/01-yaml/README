@@ -1,3 +1,0 @@
-Command to convert into JSON and verify the yaml syntax.
-
-python -c 'import yaml,sys; print yaml.load (sys.stdin)' <  <file.yml>

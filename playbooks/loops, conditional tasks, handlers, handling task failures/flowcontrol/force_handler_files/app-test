@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "DB_fail"
-echo "API_pass"
-echo "UI_pass"
-

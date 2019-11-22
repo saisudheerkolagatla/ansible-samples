@@ -1,8 +1,0 @@
-- name: Stat testtest
-  hosts: localhost
-  tasks:
-    - stat:
-        path: /etc/passwd
-      register: statout
-    - debug:
-        var: statout.stat.exists

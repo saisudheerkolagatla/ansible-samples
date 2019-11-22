@@ -1,5 +1,0 @@
----
-packages:
-  webpkg: httpd
-  dbpkg: mysql
-...
